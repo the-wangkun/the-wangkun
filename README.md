@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🎉 Welcome to my GitHub profile!
+
+👨🏻‍💻 I'm wangkun - a PHP developer
+
 <!--
 **the-wangkun/the-wangkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
